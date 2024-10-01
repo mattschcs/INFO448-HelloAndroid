@@ -142,6 +142,14 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * the app name is "Hello": 1 pt
 * Extra credit:
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
+
+        See the Screenshot Folder for the video: Show layout bounds Video Extra Credit 
+
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+
+        From Developer Options screen, I found an option called USB debugging. According to the source below, enabling USB debugging will allow your Android device to communicate with your development machine, thus allowing on-device debugging. I beleive I will use this feature during class in this quarter because it will enable me to test my applications directly on my device, making it easier to identify and fix issues in real-time, especially testing feature that involving hardware, such as bluetooth, wifi, SMS, connectivity in the later of the quarter.
+
+        [Source Link 1:](https://developer.android.com/studio/debug/dev-options)
+        [Source Link 2:](https://nordvpn.com/cybersecurity/glossary/usb-debugging/#:~:text=USB%20debugging%2C%20also%20known%20as,a%20computer%20for%20advanced%20operations.)
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
